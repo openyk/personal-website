@@ -1,0 +1,39 @@
+html, body {
+	background: #FFF;
+	color: #222;
+	font-family: "Arial", sans-serif;
+}
+
+a {
+	color: #1f78b3;;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.4rem
+}
+
+h3 {
+	font-size: 1rem;
+}
+
+.p-tb-50 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.m-t-50 {
+	margin-top: 50px;
+}
+
+table, td {
+	border: 1px solid #DDD;
+	border-collapse: collapse;
+}
+
+td {
+	padding: 10px 20px;
+}
