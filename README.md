@@ -1,2 +1,5 @@
 # personal-website
-Simple personal website made with HTML5 and CSS
+
+Simple personal website with HTML/CSS
+
+https://ykang.ca/
