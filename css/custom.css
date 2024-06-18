@@ -1,7 +1,16 @@
 html, body {
-	background: #FFF;
+	/* background: #faf0dc; */
+	background-image: url("../img/bg-page.jpg");
+	background-size: cover;
+	background-repeat: none;
+
 	color: #222;
 	font-family: "Arial", sans-serif;
+}
+
+.bg-content {
+	/* background: #fffcf8; */
+	background: url("../img/bg-content.jpg") no-repeat center center fixed;
 }
 
 a {
@@ -23,6 +32,11 @@ h3 {
 .p-tb-50 {
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+
+.p-lr-content {
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .m-t-20 {
